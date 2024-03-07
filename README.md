@@ -1,5 +1,6 @@
 
-  # chori ka maal
+  # Website Design By kavita dhar
+  # Website Coded By Pranav Upadhyay
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
